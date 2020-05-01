@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 remote_theme: pmarsceill/just-the-docs
 footer_content: "Handcrafted with &hearts; @ YU CLoud Solutions"
+search_enabled: false
+
