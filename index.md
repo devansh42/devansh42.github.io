@@ -45,12 +45,13 @@ If you already have an account, just following command
   gstatic login
 ```  
  
+## Pricing 
 
 | Feature | Free -0$                                           | Pro - 10$ |
 |:--------|:---------------------------------------------------|:--------------------------------------|
-| Websites| 1                                                  |3                                      |
-|Storage  | 100 Mb                                             |5Gb                                    |
-|SSL      |Shared SSL                                          |Custom SSL - Enhanced Security         |
+| Websites| '1'                                                |3                                      |
+|Storage  | 100 Mb                                             |5 Gb                                   |
+|SSL      |Shared SSL                                          |Custom SSL - 'Enhanced Security'       |
 |Domain   |Free gstatic.tech domain, e.g. yoursite.gstatic.tech|Your Custom Domain, e.g. yourdomain.com|
   
   
