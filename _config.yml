@@ -6,3 +6,7 @@ title: GStatic - Static Site Hosting
 aux_links:
   "GStatic":
     - "//gstatic.tech"
+  "Github":
+    - "//github.com/devansh42/yu-js.git"
+  "npm":
+    - "//npmjs.com/package/yu-gstatic"
