@@ -2,6 +2,21 @@
 
 
 
+Host your Hobby Projects for Free at [GStatic](https://gstatic.tech)
+
+## Install in a Single Command Line
+
+```
+  npm i -g yu-gstatic
+```
+
+## Navigate to the folder 
+
+```
+ cd mysite
+```
+
+
 You can use the [editor on GitHub](https://github.com/devansh42/devansh42.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
