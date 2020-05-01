@@ -45,8 +45,7 @@ If you already have an account, just following command
   gstatic login
 ```  
  
- 
- ## Pricing
+
 | Feature | Free -0$                                           | Pro - 10$ |
 |:--------|:---------------------------------------------------|:--------------------------------------|
 | Websites| 1                                                  |3                                      |
