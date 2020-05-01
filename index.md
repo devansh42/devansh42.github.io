@@ -18,7 +18,7 @@ Host your Hobby Projects for Free at [GStatic](https://gstatic.tech)
 ## Host your site
 
 ```bash
- **gstatic** up mysite.gstatic.tech
+ gstatic up mysite.gstatic.tech
 ```
 ## Host a SPA Website
 ```bash
