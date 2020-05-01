@@ -36,7 +36,17 @@ Host your Hobby Projects for Free at [GStatic](https://gstatic.tech)
 
 ### Authentication
  In order to deploy a website, first you need to authenticate yourself
- If you don't have a 
+ If you don't have an account, just run following command
+```
+  gstatic signup
+```
+If you already have an account, just following command
+```
+  gstatic login
+```  
+ 
+ 
+ 
   
 ### Support or Contact
 
