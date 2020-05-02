@@ -7,6 +7,6 @@ aux_links:
   "GStatic":
     - "//gstatic.tech"
   "Github":
-    - "//github.com/devansh42/yu-js.git"
+    - "//github.com/devansh42/yu-cli.git"
   "npm":
     - "//npmjs.com/package/yu-gstatic"
