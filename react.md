@@ -1,6 +1,8 @@
 
 # Deploying a React App for Free as Single Page Application
 
+![React Log](//create-react-app.dev/img/logo.svg)
+
 In this tutorial, I am going to show you guys, How to make a react app and deploy it on GStatic for free
 
 #### Step 1
