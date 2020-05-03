@@ -1,4 +1,8 @@
-
+---
+layout: default
+nav_order: 3
+title: Authentication Login/Signup
+---
 ## Authentication - Login/Signup
 
 In order to use **Free** Site Hosting Service, you need to authenticate yourself with one of the two commands

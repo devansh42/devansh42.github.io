@@ -1,10 +1,15 @@
+---
+layout: default
+nav_order: 2
+title: Installation
+---
 
 ## Installation
 
-For GStatic, we follow the philosophy of **KISS** *( Keep It Simple for Stu*id)*.
+For GStatic, we follow the philosophy of **KISS** *( Keep It Simple for Stupid)*.
 
 Being a Command Line Application coded in NodeJS, its a game of single command to install **GStatic Cli**.
-```bash
+```bash 
      npm i -g yu-gstatic 
 ```
 Above command will install gstatic cli globally on your machine.

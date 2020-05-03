@@ -1,4 +1,8 @@
-
+---
+layout: default
+nav_order: 4
+title: Deploying a React App for Free
+---
 # Deploying a React App for Free as Single Page Application
 
 ![React Log](//create-react-app.dev/img/logo.svg)

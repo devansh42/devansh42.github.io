@@ -1,3 +1,9 @@
+---
+layout: default
+nav_order: 1
+title: Home
+---
+
 ## GStatic - Static Site Hosting for Every Developer
 
 
