@@ -8,39 +8,36 @@ title: GStatic - Static Site Hosting for Everyone
 
 
 ## Free Domain
-With a GStatic website get Free Domain e.g. https://mysite.gstatic.tech
+![](http://magcentre.com/wp-content/uploads/2017/06/how-to-create-a-website-feature-image-e1496943224192.jpg)
+# Get Free Domain https://mysite.gstatic.tech
 
 ## Free SSL 
 ![](https://www-static.cdn-one.com/cmsimages/en_ssl-header.png)
 
-### All the GStatic websites Free SSL Secured
+# All the GStatic websites Free SSL Secured
 
 ## GStatic Loves NodeJS
 ![](https://www.panayiotisgeorgiou.net/wp-content/uploads/2017/02/nodejs-NPM-759x500.jpg)
 
-Being a Javascript Tool it's Available on **npm**
+# Being a Javascript Tool it's Available on **npm** Find it [Here](https://npmjs.com/package/yu-gstatic)
 
 
-
-
-Host your Innovative Projects for **Free** at [GStatic](http://gstatic.tech)
-
-## Install in a Single Command Line
+# Install in a Single Command Line
 
 ```bash
   npm i -g yu-gstatic
 ```
 
-## Host your site
+# Host your site
 
 ```bash
  gstatic up mysite.gstatic.tech
 ```
-## Host a SPA Website
+# Host a SPA Website
 ```bash
   gstatic up mysite.gstatic.tech spa
 ```
-## List hosted Websites
+# List hosted Websites
 ```bash
   gstatic list
 ```
