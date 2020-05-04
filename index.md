@@ -1,14 +1,14 @@
 ---
 layout: default
 nav_order: 1
-title: Home
+title: GStatic - Static Site Hosting for Everyone
 ---
 
 ## GStatic - Static Site Hosting for Every Developer
 
 
 
-Host your Hobby Projects for Free at [GStatic](https://gstatic.tech)
+Host your Hobby Projects for Free at [GStatic](http://gstatic.tech)
 
 ## Install in a Single Command Line
 
@@ -16,11 +16,6 @@ Host your Hobby Projects for Free at [GStatic](https://gstatic.tech)
   npm i -g yu-gstatic
 ```
 
-## Navigate to the folder 
-
-```bash
- cd mysite
-```
 ## Host your site
 
 ```bash
@@ -34,11 +29,6 @@ Host your Hobby Projects for Free at [GStatic](https://gstatic.tech)
 ```bash
   gstatic list
 ```
-
-## Undeploy your site
-```
-  gstatic down mysite.gstatic.tech
-```  
 
 ### Authentication
  In order to deploy a website, first you need to authenticate yourself
