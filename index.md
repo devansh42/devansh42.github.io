@@ -16,7 +16,7 @@ With a GStatic website get Free Domain e.g. https://mysite.gstatic.tech
 ### All the GStatic websites Free SSL Secured
 
 ## GStatic Loves NodeJS
-![](https://www.panayiotisgeorgiou.net/wp-content/uploads/2017/02/nodejs-NPM-759x500.jpg =256x256)
+![](https://www.panayiotisgeorgiou.net/wp-content/uploads/2017/02/nodejs-NPM-759x500.jpg)
 
 Being a Javascript Tool it's Available on **npm**
 
