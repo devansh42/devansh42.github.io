@@ -9,12 +9,12 @@ title: GStatic - Static Site Hosting for Everyone
 
 * ## Free Domain
 ![](http://magcentre.com/wp-content/uploads/2017/06/how-to-create-a-website-feature-image-e1496943224192.jpg)
-# Get Free Domain mysite.gstatic.tech
+## Get Free Domains mysite.gstatic.tech
 
 * ## Free SSL 
 ![](https://www-static.cdn-one.com/cmsimages/en_ssl-header.png)
 
-# All the GStatic websites Free SSL Secured
+## All sites are SSL Secured
 
 * ## GStatic Loves NodeJS
 ![](https://www.panayiotisgeorgiou.net/wp-content/uploads/2017/02/nodejs-NPM-759x500.jpg)
@@ -33,25 +33,6 @@ title: GStatic - Static Site Hosting for Everyone
 ```bash
  gstatic up mysite.gstatic.tech
 ```
-# Host a SPA Website
-```bash
-  gstatic up mysite.gstatic.tech spa
-```
-# List hosted Websites
-```bash
-  gstatic list
-```
-
-### Authentication
- In order to deploy a website, first you need to authenticate yourself
- If you don't have an account, just run following command
-```
-  gstatic signup
-```
-If you already have an account, just following command
-```
-  gstatic login
-```  
  
 # Pricing 
 
@@ -63,5 +44,9 @@ If you already have an account, just following command
 |Domain   |Free gstatic.tech domain, e.g. **yoursite.gstatic.tech**|Your Custom Domain, e.g. **yourdomain.com**|
   
   
- 
+# How to get started ? 
+1. [Installing GStatic on your System](/install)
+2. [How to make an account on GStatic - Login/Signup](/auth)
+3. [Hosting a Simple HTML/CSS/JS Site on GStatic](/simple)
+4. [Hosting an Single Page React App on GStatic](/react)
   
