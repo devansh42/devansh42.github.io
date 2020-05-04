@@ -49,4 +49,4 @@ title: GStatic - Static Site Hosting for Everyone
 2. [How to make an account on GStatic - Login/Signup](/auth)
 3. [Hosting a Simple HTML/CSS/JS Site on GStatic](/simple)
 4. [Hosting an Single Page React App on GStatic](/react)
-  
+5. [Installing NodeJS on Linux (Ubuntu/Fedora etc)](/node-linux)

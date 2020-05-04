@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 4
+nav_order: 5
 title: Deploying a React App for Free
 ---
 # Deploying a React App for Free as Single Page Application
