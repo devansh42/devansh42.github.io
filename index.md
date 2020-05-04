@@ -4,7 +4,22 @@ nav_order: 1
 title: GStatic - Static Site Hosting for Everyone
 ---
 
-## GStatic - Static Site Hosting for Every Developer
+# GStatic - Static Site Hosting for Every Developer
+
+
+## Free Domain
+With a GStatic website get Free Domain e.g. https://mysite.gstatic.tech
+
+## Free SSL 
+![](https://www-static.cdn-one.com/cmsimages/en_ssl-header.png)
+
+### All the GStatic websites Free SSL Secured
+
+## GStatic Loves NodeJS
+![](https://www.panayiotisgeorgiou.net/wp-content/uploads/2017/02/nodejs-NPM-759x500.jpg)
+
+Being a Javascript Tool it's Available on **npm**
+
 
 
 
