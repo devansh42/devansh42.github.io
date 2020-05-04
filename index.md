@@ -8,7 +8,7 @@ title: GStatic - Static Site Hosting for Everyone
 
 
 
-Host your Hobby Projects for Free at [GStatic](http://gstatic.tech)
+Host your Innovative Projects for **Free** at [GStatic](http://gstatic.tech)
 
 ## Install in a Single Command Line
 
