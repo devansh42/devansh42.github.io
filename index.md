@@ -53,7 +53,7 @@ If you already have an account, just following command
   gstatic login
 ```  
  
-## Pricing 
+# Pricing 
 
 | Feature | Free -0$                                           | Pro - 10$ |
 |:--------|:---------------------------------------------------|:--------------------------------------|
