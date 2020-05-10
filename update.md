@@ -1,7 +1,7 @@
 ---
-title: Updating Site Content
 layout: default
 nav_order: 7
+title: Updating Site Content
 ---
 
 ## Background
