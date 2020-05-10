@@ -53,5 +53,5 @@ Upload your project with your desired domain name as [SPA](//en.wikipedia.org/wi
 ```bash
     gstatic up react-demo.gstatic.tech spa
 ```    
-That's it, You just deployed your react project for free on GStatic, Share your project with your friends.
+That's it, You just deployed your react project for free at [react-demo.gstatic.tech](//react-demo.gstatic.tech), Share your project with your friends. 
 
