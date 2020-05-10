@@ -51,7 +51,7 @@ Change to the production directory, in our case its *build*
 #### Step 7
 Upload your project with your desired domain name as [SPA](//en.wikipedia.org/wiki/Single-page_application),
 ```bash
-    gstatic up react-test.gstatic.tech spa
+    gstatic up react-demo.gstatic.tech spa
 ```    
 That's it, You just deployed your react project for free on GStatic, Share your project with your friends.
 

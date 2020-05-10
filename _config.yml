@@ -4,7 +4,7 @@ footer_content: "Handcrafted with &hearts; @ YU CLoud Solutions  <a href='//form
 search_enabled: false
 title: GStatic - Static Site Hosting
 ga_tracking: UA-165448469-1
-logo: "/logo.png"
+logo: "/img/logo.png"
 aux_links:
   "GStatic":
     - "//gstatic.tech"
