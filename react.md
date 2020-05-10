@@ -19,7 +19,7 @@ Above command will install create-react-app globally on your system.
 ### Step 2
 Create a React Project to deploy
 ```bash
-    create-react-app demp-app   
+    create-react-app demo-app   
 ```
 Above command will install all the dependency for your project and will provide a basic react project files.
 
