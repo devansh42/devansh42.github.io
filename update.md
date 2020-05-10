@@ -34,11 +34,15 @@ and you changed the *index.html* to this,
     </html>
 
 ```
-after making nessacary changes, just run following command
+after making nessacary changes 
+### Step 1
+Just run following command
 ```sh
     gstatic down my-site.gstatic.tech
 ```
-Above command will undeploy your site,run the following command in the directory *containing your site file*
+Above command will undeploy your site.
+### Step 2
+Run the following command in the directory *containing your site file*
 ```sh
     gstatic up my-site.gstatic.tech
 
@@ -46,5 +50,5 @@ Above command will undeploy your site,run the following command in the directory
     # gstatic up my-site.gstatic.tech spa 
     # incase it's a Single Page Application
 ```
-### What about site downtime
-**Don't Worry** the downtime will be insignificant if you run the commands without any delay, so run second command just after the first one
+### Hey! What about my site downtime
+**Don't Worry** the downtime will be insignificant if you run the commands without any delay, so run second command immedatly after the first one.
