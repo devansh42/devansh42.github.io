@@ -3,7 +3,7 @@ layout: default
 nav_order: 6
 title: List your Deployments
 ---
-## Listing Your Projects
+# Listing Your Projects
 
 With GStatic you can upload free websites with just one command, But how will check the status of the website, whether its is Deployed or not ?
 We have a soluion, **gstatic list** command, this command will list all the projects belongs to you along with there status.

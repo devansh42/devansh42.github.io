@@ -4,7 +4,7 @@ nav_order: 2
 title: Installation
 ---
 
-## Installation
+# Installation
 
 For GStatic, we follow the philosophy of **KISS** *( Keep It Simple for Stupid)*.
 
