@@ -19,6 +19,7 @@ Suppose you have a website hosted at [my-site.gstatic.tech](#) and you want to u
     </html>
 
 ```
+![Page before Edit](/img/update_before.png)
 and you changed the *index.html* to this,
 ```html
     <!doctype html>
@@ -50,5 +51,6 @@ Run the following command in the directory *containing your site file*
     # gstatic up my-site.gstatic.tech spa 
     # incase it's a Single Page Application
 ```
+![Page before Edit](/img/update_after.png)
 ### Hey! What about my site downtime
 **Don't Worry** the downtime will be insignificant if you run the commands without any delay, so run second command immedatly after the first one.
