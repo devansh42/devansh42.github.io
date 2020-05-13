@@ -19,14 +19,14 @@ analytics:
 
 footer:
   links:
-     #label: "Twitter"
-    - icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gstatic_tech"
-    #- label: "Github"
-    - icon:  "fab fa-fw fa-github" 
+    - label: "Github"
+      icon:  "fab fa-fw fa-github" 
       url: "https://github.com/devansh42/yu-cli.git"
-    #- label: "npm"
-    - icon: "fab fa-fw fa-npm"
+    - label: "npm"
+      icon: "fab fa-fw fa-npm"
       url: "https://npmjs.org/yu-gstatic"  
 
 logo: "/img/logo.png"
