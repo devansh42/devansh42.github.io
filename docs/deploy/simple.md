@@ -7,25 +7,24 @@ sidebar:
 ---
 
 In this tutorial will learn how to host a simple html based website on GStatic.
-After [installing gstatic](/install) on system, open the folder in which you have your project files then follow these steps,  
+Assuming you already have [installed](/docs/install/windows.html) Gstatic cli and [authenticated](/docs/auth/login.html) yourself.
 
+Let's we have a folder named *my-simple-site* containing our website files.
+![Files in Folder](/img/docs/deploy/simple_tree.png)
 
-
-
-1. Authenticate your self with following command, for detailed Authentication guide, visit [here](auth.html)
+1. Change to the directory having website files
 ```bash
-    gstatic login  
-```    
-Or use `gstatic signup` if don't have an account
-
-2. Change to the directory having website files
-```bash
-    cd your-project-having-website-sites
+    cd my-simple-site
 ```
+![Changing the directory](/img/docs/deploy/simple_cd.png)
 
-3. Upload your project with your desired domain name  
+
+2. Upload your project with your desired domain name  
 ```bash
-    gstatic up simple-site.gstatic.tech 
+    gstatic up my-simple-site.gstatic.tech 
 ```    
-That's it, You just deployed your html based project for free on GStatic, Share your project with your friends [simple-site.gstatic.tech](https://simple-site.gstatic.tech)
+![Deploying the Website](/img/docs/deploy/simple.png)
+
+
+That's it, You just deployed your html based project for free on GStatic, Share your project with your friends [my-simple-site.gstatic.tech](https://my-simple-site.gstatic.tech)
 
