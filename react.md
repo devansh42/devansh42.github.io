@@ -1,12 +1,11 @@
 ---
 layout: single
 nav_order: 5
-title: Deploying a React App for Free
+title: Deploying a React App as a Single Page App
 header:
     image: https://create-react-app.dev/img/logo.svg
 
 ---
-# Deploying a React App for Free as Single Page Application
 
 ![React Log](//create-react-app.dev/img/logo.svg)
 

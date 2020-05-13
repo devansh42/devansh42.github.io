@@ -4,8 +4,6 @@ nav_order: 7
 title: Updating Site Content
 ---
 
-# Updating Site Content
-
 ## Background
 Suppose you have a website hosted at [my-site.gstatic.tech](#) and you want to update that site, let's assume that *index.html* look like
 ```html

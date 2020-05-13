@@ -3,8 +3,6 @@ main:
       url: /get-started.html
     - title: "Install" 
       url: /install.html
-    - title: "React"
-      url: /react.html
-    - title: "Docs"
-      url: /docs.html
+    - title: "Pricing"
+      url: /pricing.html
                    

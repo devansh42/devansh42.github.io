@@ -1,10 +1,10 @@
 ---
 layout: single
 nav_order: 2
-title: Installation
+title: Installing GStatic Cli
 ---
 
-# Installation
+
 
 For GStatic, we follow the philosophy of **KISS** *( Keep It Simple for Stupid)*.
 
