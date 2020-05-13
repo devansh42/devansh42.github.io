@@ -4,7 +4,7 @@ nav_order: 1
 excerpt: "GStatic - Static Web Hosting for every Developer"
 title: "GStatic - Static Web Hosting for every Developer"
 header:
-  image: /img/banner-1.png
+  overlay_image: /img/banner-1.png
 ---
 
 
