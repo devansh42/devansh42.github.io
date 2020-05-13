@@ -4,6 +4,7 @@ nav_order: 1
 header:
   image: /img/banner-1.png
   overlay_color: "#333"
+  overlay_filter: 0.1
   actions:
     - label: "Install"
       url: "/docs/install/windows.html"
