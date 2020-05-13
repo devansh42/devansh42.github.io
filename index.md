@@ -1,6 +1,8 @@
 ---
 layout: splash
 nav_order: 1
+header:
+  image: /img/banner-1.png
 ---
 
 # GStatic - Static Site Hosting for Every Developer
