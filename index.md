@@ -2,8 +2,10 @@
 layout: splash
 nav_order: 1
 header:
-  image: /img/banner-1.png
-  caption: "GStatic - Static Site Hosting for Every Developer"
+  overlay_image: /img/banner-1.png
+  actions:
+    - label: "Install"
+      url: "/docs/install/windows.html"
 ---
 
 * ## Free Domain
