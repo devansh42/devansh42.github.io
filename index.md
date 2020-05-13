@@ -1,6 +1,7 @@
 ---
 layout: splash
 nav_order: 1
+excerpt: "GStatic - Static Web Hosting for every Developer"
 header:
   image: /img/banner-1.png
 ---
@@ -16,9 +17,3 @@ header:
 |Domain   |Free gstatic.tech domain, e.g. **yoursite.gstatic.tech**|Your Custom Domain, e.g. **yourdomain.com**|
   
   
-# How to get started ? 
-1. [Installing GStatic on your System](/install)
-2. [How to make an account on GStatic - Login/Signup](/auth)
-3. [Hosting a Simple HTML/CSS/JS Site on GStatic](/simple)
-4. [Hosting an Single Page React App on GStatic](/react)
-5. [Installing NodeJS on Linux (Ubuntu/Fedora etc)](/node-linux)
