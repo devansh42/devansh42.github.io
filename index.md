@@ -2,7 +2,7 @@
 layout: splash
 nav_order: 1
 header:
-  overlay_image: /img/banner-1.png
+  image: /img/banner-1.png
   actions:
     - label: "Install"
       url: "/docs/install/windows.html"
