@@ -8,7 +8,7 @@ main:
     - title: "Pricing"
       url: /#pricing
                    
-docs:
+docs: 
     - title: "Installation"
       children:
         - title: "Linux"
