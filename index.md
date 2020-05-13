@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 nav_order: 1
 title: GStatic - Static Site Hosting for Everyone
 ---

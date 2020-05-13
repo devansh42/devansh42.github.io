@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 nav_order: 4
 title: Hosting a Simple HTML/CSS/JS Site
 ---

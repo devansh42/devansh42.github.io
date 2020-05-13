@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 nav_order: 5
 title: Deploying a React App for Free
 ---

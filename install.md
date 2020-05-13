@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 nav_order: 2
 title: Installation
 ---
