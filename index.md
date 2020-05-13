@@ -12,8 +12,10 @@ header:
 ![](/img/ssl-1.png)
 ![](/img/domain-1.png)
 ![](/img/cmd-2.png)
-# Pricing 
 
+<a class="btn" href="/docs/install/windows.html">Get Started for Free</a>
+
+# Pricing 
 
 | Feature | Free -0$                                           | Pro - 10$ |
 |:--------|:---------------------------------------------------|:--------------------------------------|
