@@ -11,6 +11,7 @@ header:
 # Features
 ![](/img/ssl-1.png)
 
+![](/img/domain-1.png)
  
 # Pricing 
 
