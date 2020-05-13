@@ -13,7 +13,7 @@ header:
 ![](/img/domain-1.png)
 ![](/img/cmd-2.png)
 
-<a class="btn" href="/docs/install/windows.html">Get Started for Free</a>
+# [Get Started For Free](/docs/install/windows.html)
 
 # Pricing 
 
