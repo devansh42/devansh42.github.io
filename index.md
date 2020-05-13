@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: splash
 nav_order: 1
-title: GStatic - Static Site Hosting for Everyone
 ---
 
 # GStatic - Static Site Hosting for Every Developer

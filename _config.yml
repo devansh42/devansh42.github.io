@@ -2,7 +2,7 @@
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
-footer_content: "Handcrafted with &hearts; @ YU CLoud Solutions  <a href='//forms.gle/FMcLuq29gYEHpWC6A'>Report a Problem</a>  <a href='//forms.gle/SbCM6tL8KP12AaU1A'>Feedback</a>   <a href='//wa.me/+919412580180'>Whatsapp</a> "
+#footer_content: "Handcrafted with &hearts; @ YU CLoud Solutions  <a href='//forms.gle/FMcLuq29gYEHpWC6A'>Report a Problem</a>  <a href='//forms.gle/SbCM6tL8KP12AaU1A'>Feedback</a>   <a href='//wa.me/+919412580180'>Whatsapp</a> "
 search_enabled: false
 title: GStatic - Static Site Hosting
 name: "GStatic"
@@ -19,13 +19,13 @@ analytics:
 
 footer:
   links:
-    - lable: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/gstatic_tech"
-    - lable: "Github"
+    - label: "Github"
       icon:  "fab fa-fw fa-github" 
       url: "https://github.com/devansh42/yu-cli.git"
-    - lable: "npm"
+    - label: "npm"
       icon: "fab fa-fw fa-npm"
       url: "https://npmjs.org/yu-gstatic"  
 
