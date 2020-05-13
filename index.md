@@ -12,6 +12,8 @@ header:
 ![](/img/ssl-1.png)
 
 ![](/img/domain-1.png)
+
+![](/img/cmd-2.png)
  
 # Pricing 
 
