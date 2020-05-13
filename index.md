@@ -13,7 +13,6 @@ header:
 ![](/img/domain-1.png)
 ![](/img/cmd-2.png)
 
-# [Get Started For Free](/docs/install/windows.html)
 
 # Pricing 
 
@@ -23,5 +22,8 @@ header:
 |Storage  | 100 Mb                                             |5 Gb                                   |
 |SSL      |Shared SSL                                          |Custom SSL - 'Enhanced Security'       |
 |Domain   |Free gstatic.tech domain, e.g. **yoursite.gstatic.tech**|Your Custom Domain, e.g. **yourdomain.com**|
-  
-  
+
+<center>
+<a style="font-size:50px;"  href="/docs/install/windows.html">
+Get Started For Free
+</a></center>
