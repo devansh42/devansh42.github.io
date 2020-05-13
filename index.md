@@ -3,10 +3,8 @@ layout: splash
 nav_order: 1
 header:
   image: /img/banner-1.png
+  caption: "GStatic - Static Site Hosting for Every Developer"
 ---
-
-# GStatic - Static Site Hosting for Every Developer
-
 
 * ## Free Domain
 ![](http://magcentre.com/wp-content/uploads/2017/06/how-to-create-a-website-feature-image-e1496943224192.jpg)

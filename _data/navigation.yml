@@ -6,7 +6,7 @@ main:
     - title: "React"
       url: /docs/deploy/react.html    
     - title: "Pricing"
-      url: /pricing.html
+      url: /#pricing
                    
 docs:
     - title: "Installation"
