@@ -2,6 +2,8 @@
 layout: single
 nav_order: 4
 title: Hosting a Simple HTML/CSS/JS Site
+sidebar:
+    nav:"docs"
 ---
 
 In this tutorial will learn how to host a simple html based website on GStatic.

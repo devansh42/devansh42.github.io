@@ -2,9 +2,8 @@
 layout: single
 nav_order: 5
 title: Deploying a React App as a Single Page App
-header:
-    image: https://create-react-app.dev/img/logo.svg
-
+sidebar:
+    nav:"docs"
 ---
 
 ![React Log](//create-react-app.dev/img/logo.svg)

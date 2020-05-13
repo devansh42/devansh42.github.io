@@ -3,6 +3,38 @@ main:
       url: /get-started.html
     - title: "Install" 
       url: /install.html
+    - title: "Docs"
+      url: /docs.html    
     - title: "Pricing"
       url: /pricing.html
                    
+docs:
+    - title: "Installation"
+      children:
+        - title: "Linux"
+          url: /docs/install/linux.html
+        - title: "Windows"
+          url: /docs/install/windows.html
+        - title: "Mac-OS"
+          url: /docs/install/mac.html           
+    - title: "Authentication"
+      children:
+        - title: "Signup"
+          url: /docs/auth/signup.html  
+        - title: "Login"
+          url: /docs/auth/login.html
+    - title: "Deployment"
+      children:
+        - title: "Simple Website" 
+          url: /docs/deploy/simple.html
+        - title: "React App "
+          url: /docs/deploy/react.html
+    - title: "List/Update/Un-Deploy" 
+      children:
+        - title: "Listing your Websites"
+          url: /docs/list.html
+        - title: "Un-Deploying Website"
+          url: /docs/undeploy.html    
+        - title: "Updating Website"
+          url: /docs/update.html
+

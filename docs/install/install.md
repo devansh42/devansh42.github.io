@@ -2,6 +2,8 @@
 layout: single
 nav_order: 2
 title: Installing GStatic Cli
+sidebar:
+    nav:"docs"
 ---
 
 

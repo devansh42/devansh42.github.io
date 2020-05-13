@@ -2,6 +2,8 @@
 layout: single
 nav_order: 7
 title: Updating Site Content
+sidebar:
+    nav:"docs"
 ---
 
 ## Background

@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: single
 nav_order: 3
 title: Authentication Login/Signup
+sidebar:
+    nav:"docs"
 ---
 ## Authentication - Login/Signup
 
