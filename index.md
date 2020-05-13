@@ -3,37 +3,12 @@ layout: splash
 nav_order: 1
 header:
   image: /img/banner-1.png
+  overlay_color: "#333
   actions:
     - label: "Install"
       url: "/docs/install/windows.html"
 ---
 
-* ## Free Domain
-![](http://magcentre.com/wp-content/uploads/2017/06/how-to-create-a-website-feature-image-e1496943224192.jpg)
-## Get Free Domains mysite.gstatic.tech
-
-* ## Free SSL 
-![](https://www-static.cdn-one.com/cmsimages/en_ssl-header.png)
-
-## All sites are SSL Secured
-
-* ## GStatic Loves NodeJS
-![](https://www.panayiotisgeorgiou.net/wp-content/uploads/2017/02/nodejs-NPM-759x500.jpg)
-
-### Being a Javascript Tool it's Available on **npm** Find it [Here](https://npmjs.com/package/yu-gstatic)
-
-
-# Install in a Single Command Line
-
-```bash
-  npm i -g yu-gstatic
-```
-
-# Host your site
-
-```bash
- gstatic up mysite.gstatic.tech
-```
  
 # Pricing 
 
