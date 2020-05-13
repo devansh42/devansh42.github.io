@@ -3,9 +3,8 @@ layout: single
 nav_order: 3
 title: Authentication Login/Signup
 sidebar:
-    nav:"docs"
+    nav: "docs"
 ---
-## Authentication - Login/Signup
 
 In order to use **Free** Site Hosting Service, you need to authenticate yourself with one of the two commands
 If don't have an account yet, **Signup First**

@@ -3,7 +3,7 @@ layout: single
 nav_order: 6
 title: List your Projects
 sidebar:
-    nav:"docs"
+    nav: "docs"
 ---
 
 
