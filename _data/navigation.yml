@@ -1,7 +1,5 @@
 main:
     - title: "Get Started"
-      url: /get-started.html
-    - title: "Install" 
       url: /docs/install/windows.html
     - title: "React"
       url: /docs/deploy/react.html    
